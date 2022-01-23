@@ -1,16 +1,22 @@
-### Hi there 👋
+# hiroq_q
+I update it occasionally.<br>
+I only know a little bit about python.
 
-<!--
-**hiroQ-Q/hiroQ-Q** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## SNS
+- [Twitter](https://twitter.com/HiroQ_Q_m/) <img width="15px" src="https://play-lh.googleusercontent.com/65gRWpXRbhKLD6ak-Eqs8A660E_NJft03eG37hFGitdYp2OyosvaxpN0ErDoz9aWfw=s180"/>
+- [YouTube](https://www.youtube.com/channel/UC3FpFji3LCQD3TIKIl0vLCw) <img width="15px" src="https://play-lh.googleusercontent.com/lMoItBgdPPVDJsNOVtP26EKHePkwBg-PkuY9NOrc-fumRtTFP4XhpUNk_22syN4Datc=s180"/>
+- [WebSite](https://hiroqq.com/)
 
-Here are some ideas to get you started:
+## Language status
+- [x] python
+- [ ] C#
+- [ ] JavaScript
+- [ ] SwiftJava
+- [ ] Java
+- [ ] PHP
+- [ ] C++
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+<blockquote>
+Profile Last Updated 2022/01/23
+</blockquote>
