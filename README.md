@@ -17,6 +17,10 @@ I only know a little bit about python.
 - [ ] C++
 
 ---
+##現在取り組んでいること
+- KASADA SOLVER(Twitch)
+- Hcaptch bypass
+---
 <blockquote>
 Profile Last Updated 2024/09/08
 </blockquote>
