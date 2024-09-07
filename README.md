@@ -17,7 +17,7 @@ I only know a little bit about python.
 - [ ] C++
 
 ---
-##現在取り組んでいること
+## 現在取り組んでいること
 - KASADA SOLVER(Twitch)
 - Hcaptch bypass
 ---
