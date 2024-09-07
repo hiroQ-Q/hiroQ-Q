@@ -18,7 +18,7 @@ I only know a little bit about python.
 
 ---
 ## 現在取り組んでいること
-- KASADA SOLVER(Twitch)
+- KASADA Solver(Twitch)
 - Hcaptch bypass
 ---
 <blockquote>
