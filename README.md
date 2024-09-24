@@ -17,7 +17,7 @@
 
 - Python
 - Lua
-### ⚙️ Tech Stack
+### ⚙️ Studying
 
 ![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python&color=000000) ![Bootstrap](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=JavaScript&color=000000) ![Bootstrap](https://img.shields.io/badge/-Lua-05122A?style=flat&logo=Lua&color=000000) ![Bootstrap](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL&color=000000)
 
