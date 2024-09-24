@@ -19,7 +19,7 @@ I only know a little bit about python.
 ---
 ## 現在取り組んでいること
 - KASADA Solver(Twitch)
-- Hcaptch bypass
+- hCaptcha bypass
 ---
 <blockquote>
 Profile Last Updated 2024/09/08
