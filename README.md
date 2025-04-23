@@ -23,9 +23,9 @@
 
 ---
 ## 現在取り組んでいること
-- KASADA Solver(Twitch)
-- hCaptcha bypass
+None
 ---
+
 <blockquote>
 Profile Last Updated 2024/09/24
 </blockquote>
