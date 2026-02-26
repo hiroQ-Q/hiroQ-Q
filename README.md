@@ -4,7 +4,7 @@
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/hiroqq__//)](https://www.instagram.com/hiroqq__/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:None@email.com)
-[![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://bluearcs.jp)](https://bluearcs.jp)
+[![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://hiroqq.com)](https://hiroqq.com)
 [![Github](https://img.shields.io/github/followers/hiroq-q?label=Follow&style=social)](https://github.com/hiroq-q)
 
 - 💻 最近暇つぶしで更新しています
@@ -26,5 +26,5 @@ None
 ---
 
 <blockquote>
-Profile Last Updated 2024/09/24
+Profile Last Updated 2026/02/26
 </blockquote>
